@@ -64,15 +64,32 @@ when the deal is hedged
 
 A use case of Quartz: either the regulatory reporting exercise described above or a daily estimate of market risk, which is easier to explain Resources:
 
+<Ul>
+<LI>
 
  [One of many, many web ages explaining swap prpicing](https://www.fincad.com/resources/resource-library/wiki/swap-pricing) 
-
- [The saga of SecDB, Athena, and Quartz, as told on a financial recruiting web site.](https://news.efinancialcareers.com/uk-en/276170/secdb-quartz-athena-analytics)
-
-<Li> [more about SecDB](https://news.efinancialcareers.com/uk-en/147434/inside-goldman-sachs-secret-sauce/) </li>
-<Li> [the skinny on Quartz – and Quartz internal politics - from a variety of people in the trenches](https://www.quora.com/when-why-and-to-what-extent-did-Bank-of-America-rebuild-its-entire-tech-stack-with-Pytho)  </li>
-<Li> [One of the architects of SecDB, Athena, and Quartz, now at Beacon Platform, explains the
-rationale behind such systems.](https://www.linkedin.com/pulse/getting-most-out-your-quant-team-building-iqp-mark-higgins/)
 </li>
-<Li>[Website for Beacon Platform] (https://www.beacon.io/)
-</OL>
+
+ [The saga of SecDB, Athena, and Quartz, as told on a financial recruiting web site.](https://news.efinancialcareers.com/uk-en/276170/secdb-quartz-athena-analytics) 
+ </li>
+
+<Li> 
+
+[more about SecDB](https://news.efinancialcareers.com/uk-en/147434/inside-goldman-sachs-secret-sauce/) </li>
+
+<Li>
+
+ [the skinny on Quartz – and Quartz internal politics - from a variety of people in the trenches](https://www.quora.com/when-why-and-to-what-extent-did-Bank-of-America-rebuild-its-entire-tech-stack-with-Pytho)  
+</li>
+
+<Li> 
+
+[One of the architects of SecDB, Athena, and Quartz, now at Beacon Platform, explains the rationale behind such systems.](https://www.linkedin.com/pulse/getting-most-out-your-quant-team-building-iqp-mark-higgins/)
+</li>
+
+<Li>
+
+[Website for Beacon Platform](https://www.beacon.io/)
+</li>
+
+</UL>
