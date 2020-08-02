@@ -5,7 +5,6 @@ Preamble
 </h3>
 Client onboarding is a process which users go through when they start their journey as a customer/client of a bank/financial institution. The onboarding experience can define the ongoing relationship the customer has with the organisation. Onboarding, as a term, is a misnomer. In truth, it refers less to a single process than to a series of processes. Continuous Client Onboarding, also known as Customer Lifecycle Management (CLM) extends the conception of onboarding from the capture and verification of client information and account funding to encompass the entire client lifecycle, from acquisition to reporting to termination. Reinforced Know Your Customer (KYC) and Customer Due Diligence (CDD) requirements for entities such as banks need to be implemented in the first stage of any business relationship when onboarding a new customer. 
 
-![Scope of Onboarding](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/onlboarding.png)
 
 <h3> Why this matters </h1>
 Onboarding sets the tonne of the relationship
@@ -33,7 +32,8 @@ Hence, one of the critical areas where a financial institution thinks it can be 
 This case study discusses one such emerging RegTech solutions provider, Fenergo whose services speak to a lot of the headaches that banks have to deal with in the new era of digital banking. That includes a host of regulatory requirements; client lifecycle management (onboarding and making digital interfaces usable); and rolling out digital interfaces for the services that banks typically offer (corporate/institutional banking, asset management, private banking and wealth management); as well as client and regulatory technology for financial services.
 </i>
 
-# <i>Name of the Company: [FENERGO Ltd](https://www.fenergo.com/)  ![Fenergo](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/logo.png)
+# <i>Name of the Company: [FENERGO Ltd](https://www.fenergo.com/)  
+![Fenergo](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/logo.png)
 
 </i>
 Established in 2009, head quartered in Dublin 1, Ireland and with 14 office locations across 11 countries, Fenergo is a leading provider of client and regulatory technology designed to provide financial institutions with financial and regulatory solutions that span front and middle office operations to provide banking clients with an end-to-end client life cycle management solutions. 
@@ -77,11 +77,11 @@ The challenge with Increasing and ever evolving global regulatory obligations, i
 </i>
 Fenergo's latest funding round in February 2020 was reported to be $80 m. In total, Fenergo has raised $160.4 m. Fenergo's latest valuation is reported to be $800 m. Fenergo currently has 70 Enterprise customers includes some of the world’s leading banks & prime brokerages. include  t has participated in 6 rounds of funding. In total Fenergo has raised $173.6M. Fenergo's last funding round was on Feb 2020 for a total of $6.0M.
 
-![Funding Rounds](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/fenergofunding.png)
+![Funding Rounds](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/fenergofunding.jpg)
 
 ## Fintech investors
 
-![Investors](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/finergoinvestors.png)
+![Investors](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/finergoinvestors.jpg)
 
 # Business Activities
 
@@ -190,6 +190,8 @@ The competitive landscape includes some well known big Technology solution provi
 </i>
 
 Onboarding and KYC operational processes have had to change significantly over the last 10 years as regulatory requirements and customer expectations have changed. Long gone are the days of financial institutions being able to rely on relationship managers “knowing” who their customers are, and where they got their wealth. The financial industry has had to grow up to create a robust, up-to-date, auditable view of the customer. 
+
+![Scope of Onboarding](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/onlboarding.png)
 
 The current landscape of onboarding and KYC across the financial services industry, whether we are talking about institutional, commercial or retail customers, is a real hotchpotch of manual, legacy, and third-party processes, combined with technology “fixes” implemented usually to drive down cost and headcounts numbers, or to plug a gap identified in a regulatory or internal audit review. Until fairly recently, the strategies for onboarding and KYC have focused on local rather than global solutions and have been built for a particular business line or product.
 
