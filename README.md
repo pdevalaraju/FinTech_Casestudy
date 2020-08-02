@@ -7,6 +7,7 @@ Client onboarding is a process which users go through when they start their jour
 
 
 <h3> Why this matters </h1>
+
 Onboarding sets the tonne of the relationship
 Client onboarding is the first touch point where the customer interacts with the financial institution. so it is essential to deliver a g ood experience to start the relationship on a postive note. the loss of customer during onboarding due to bad customer experience has impacted financial institutions's bottom line by approximately $10 billion a year. despite the critical importance of onboarding, one-third of the financial institutions surveyed have not invested in technology to help immprove the process. 
 
@@ -33,7 +34,7 @@ This case study discusses one such emerging RegTech solutions provider, Fenergo 
 </i>
 
 # <i>Name of the Company: [FENERGO Ltd](https://www.fenergo.com/)  
-![Fenergo](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/logo.png)
+![Fenergo](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/logo.png)(https://www.fenergo.com/)
 
 </i>
 Established in 2009, head quartered in Dublin 1, Ireland and with 14 office locations across 11 countries, Fenergo is a leading provider of client and regulatory technology designed to provide financial institutions with financial and regulatory solutions that span front and middle office operations to provide banking clients with an end-to-end client life cycle management solutions. 
@@ -88,7 +89,7 @@ Fenergo's latest funding round in February 2020 was reported to be $80 m. In tot
 ### <i> What specific financial problem they are trying to solve?
 </i>
 
-Fenergo’s focuses on addressing challenges in Client lifecycle management right from onboarding through regulatory compliance to further accelerating digital transformation, enabling better client experiences and delivering even greater value to our shared customers. 
+Fenergo focuses on addressing challenges in Client lifecycle management right from onboarding through regulatory compliance to further accelerating digital transformation, enabling better client experiences and delivering even greater value to our shared customers. 
 
 <i> “The rise in financial crime and increasing regulation is creating a tough battleground for financial institutions trying to stay on top of a multitude of regulatory rules across different jurisdictions. We are still seeing the ramifications from the financial crisis." - Marc Murphy, CEO, Fenergo </i>
 
@@ -122,7 +123,7 @@ Asset Management & Asset Servicing
 Private Banking - Wealth Management
     <ul>
         Digitalize complex client onboarding processes and deliver a streamlined client experience across the entire client lifecycle.
-    </ui>
+    </ul>
 </li>
 </ul>
 
@@ -156,10 +157,8 @@ Fenergo's soluutions are underpinned by <b>Artificial Intelligence, Robotics Pro
 <b>API-approach and workflow innovation </b> - APIs collate customer data from various source and combine to create a single client view. API-first integration and other front end systems and industry data providers ensures a digital orchestration process creating an end-to-end frictionless process, eleminating financial institution's need to perform client outreach and customer's need to submit the information.
 
 
-
- 
-
 ![Technology](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/technology.jpg)
+
 
 ### Differentiators: 
 Fenergo CLM's ability to enable financial institutions to onboard complex multi-jurisdictional clients seamlessly and quickly, greatly reduce implementation costs that differntiate it's solution from other similar players:
@@ -184,6 +183,9 @@ While there are many vendors big and small across different markets and regions 
 
 The competitive landscape includes some well known big Technology solution providers like Oracle, IBM, SAP who are not just into CLM or finance industry but focus on broader range of products and solutions across industry segments. On the other side there are a few mid sized companies like Appian, Pega as well as many startups providing broader solution set for financial industry. And then there are quite a niche players who are exclusively into KYC or a specific segment within CLM. 
 
+### Competetors
+
+
 ![Competition](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/competetion_1.png)
 ![landscape](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/competetion_2.png)
 
@@ -195,6 +197,8 @@ Onboarding and KYC operational processes have had to change significantly over t
 ![Scope of Onboarding](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/onlboarding.png)
 
 The current landscape of onboarding and KYC across the financial services industry, whether we are talking about institutional, commercial or retail customers, is a real hotchpotch of manual, legacy, and third-party processes, combined with technology “fixes” implemented usually to drive down cost and headcounts numbers, or to plug a gap identified in a regulatory or internal audit review. Until fairly recently, the strategies for onboarding and KYC have focused on local rather than global solutions and have been built for a particular business line or product.
+
+![Key Drivers](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/drivers.JPG)
 
 <ul>
 <li> Financial Institutions are realizing that putting the customer at the center of everything they do is the key to creating a sustainable, cost-effective, regulatory compliant environment where customers choose to stay, feeling part of a partnership. 
@@ -290,6 +294,8 @@ Fenergo has been named as top playyer in Fintech Reviews conducted by Celent and
 
 ### Industry Recognitions
 Fenergo has been recognized as top tier RegTecch company consecutively for many years. Some of the industry recognitions include:
+
+
 
 <iframe src="https://www.fenergo.com/company/awards-accreditations.html" height="600px" width="800px"></iframe>
 
