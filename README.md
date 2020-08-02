@@ -8,7 +8,7 @@ Client onboarding is a process which users go through when they start their jour
 
 <h3> Why this matters </h1>
 
-Onboarding sets the tonne of the relationship
+Onboarding sets the tone of the relationship
 Client onboarding is the first touch point where the customer interacts with the financial institution. so it is essential to deliver a g ood experience to start the relationship on a postive note. the loss of customer during onboarding due to bad customer experience has impacted financial institutions's bottom line by approximately $10 billion a year. despite the critical importance of onboarding, one-third of the financial institutions surveyed have not invested in technology to help immprove the process. 
 
 <ul>
@@ -146,7 +146,7 @@ The global AI in Fintech market was estimated at USD 6.67 billion in 2019 and is
 
 ### <i> Which Technologies are they currently using and how are they implementing these? what differentiates their solution from the competetorss?
 </i>
-Some key Technologies leveraged by Fenergo include:
+
 
 Fenergo's soluutions are underpinned by <b>Artificial Intelligence, Robotics Process Automation and Machine Learning technologies </b>, using advanced OCR and NLP capabilities to extract information, expedite compliance and improve operational efficiencies. AI used to speed up customer document scanning. Optical characted recognition (OCR) capabilities extract meaningful information form documents that can be combined with data from external sources to create an enhanced risk profie for each customer. 
 
@@ -173,7 +173,7 @@ Fenergo's unique<b> ecosystem </b>is comprised of out-of-the-box, best-of-breed 
 ### <i> What domain of the financial industry is the company in and What are the other major companies in this domain?
 </i>
 
-Fenergo RegTech company with  100% on financial industry serves overing Corporate & Institutional Banking, Retail Banking, Asset mgmt, and Wealth Management domains.
+Fenergo is a RegTech company with  100% on financial industry serves overing Corporate & Institutional Banking, Retail Banking, Asset mgmt, and Wealth Management domains.
 
 While there are many vendors big and small across different markets and regions with similar product or solutions, Fenergo is the only CLM vendor that specializes in financial services which makes Fenergo highly tuned in to the exact requirements of financial institutions. There are different players in each market segment e.g. below Below chart provides comparison of players in SMB segment. 
 
@@ -318,7 +318,7 @@ Fenergo has been recognized as top tier RegTecch company consecutively for many 
 
 Fenergo has been leveraging bleeding edge technologies already in their solutions and is focused to accelerate the digital transformation keeping up with the technology trends. The opportunities offered by these new technologies include:  
 
-means of identifying a customer, most of it already been leveraged in their solutions:
+
 <ui>
 <Li> <b>Artificial intelligence (AI) </b> – technology by which the computer software can make decisions which are normally made by humans. For example, PayPal has cut its false fraud alerts in half, by using an AI monitoring system that can identify benign reasons for seemingly bad behavior. Others, like HSBC are, too, moving towards AI, pledging $2.3 billion to digital transformation and AI tech.</li>
 
