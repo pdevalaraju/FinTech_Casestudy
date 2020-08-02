@@ -127,8 +127,9 @@ Private Banking - Wealth Management
 </ul>
 
 ### Market size
-
-<iframe src="https://craft.co/embed/v1/companies/fenergo/market_position" height="600px" width="800px"></iframe>
+<figure>
+<iframe src="https://craft.co/embed/v1/companies/fenergo/market_position" frameborder="0" allowfullscreen="true"></iframe>
+</figure>
 
 ### 
 
@@ -204,7 +205,7 @@ The current landscape of onboarding and KYC across the financial services indust
 From a regulatory compliance point of view, banks are now able to create consistency of KYC risk assessments across their business lines and jurisdictions, re-using and sharing information, maintaining a common standard, and being able to satisfy the needs of the various local regulators through applying local regulatory rules on top of a global minimum standard where necessary.
 </li>
 <li>
-As regulations become stricter with ever evolving and introduction of new directives, eg. The fifth Anti Money Laundering Directive (AMLD5) came into effect on 10 January 2020, setting out a new set of rules to help financial entities protect against the risks of money laundering and financing of terrorism, it is in a company’s best interest to be compliant. One way to do this is through the adoption of new technologies. These technologies aim to simplify the AML process. They also aim to simplify the Know Your Customer (KYC) process, which is a part of AML. Technology offers a way to address many of the pain points in current AML procedures.
+As regulations become stricter with ever evolving and introduction of new directives, eg. The fifth Anti Money Laundering Directive (AMLD5) came into effect on 10 January 2020, setting out a new set of rules to help financial entities protect against the risks of money laundering and  financing of terrorism, it is in a company’s best interest to be compliant. One way to do this is through the adoption of new technologies. These technologies aim to simplify the AML process. They also aim to simplify the Know Your Customer (KYC) process, which is a part of AML. Technology offers a way to address many of the pain points in current AML procedures.
 </li>
 </ul>
 
