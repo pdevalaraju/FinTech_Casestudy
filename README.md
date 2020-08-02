@@ -274,7 +274,7 @@ Market cap
 </li>
 <li>
 Social media metrics such as website visits, mentions in Twitter, facebook, etc., employee satisfaction are some of the non-financial metrics determining the increase in popularity among digital savvy uses.
-<lili>
+</li>
 </ul>
 
 ###  <i> How is you company performing based on these metrics
@@ -296,8 +296,8 @@ Fenergo has been named as top playyer in Fintech Reviews conducted by Celent and
 Fenergo has been recognized as top tier RegTecch company consecutively for many years. Some of the industry recognitions include:
 
 
+![Investors](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/recognitions.JPG)
 
-<iframe src="https://www.fenergo.com/company/awards-accreditations.html" height="600px" width="800px"></iframe>
 
 ### <i> How is your company performing relative to competitors in the same domain.
 </i>
