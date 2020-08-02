@@ -8,6 +8,8 @@ Client onboarding is a process which users go through when they start their jour
 ![Scope of Onboarding](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/onlboarding.png)
 
 <h3> Why this matters </h1>
+Onboarding sets the tonne of the relationship
+Client onboarding is the first touch point where the customer interacts with the financial institution. so it is essential to deliver a g ood experience to start the relationship on a postive note. the loss of customer during onboarding due to bad customer experience has impacted financial institutions's bottom line by approximately $10 billion a year. despite the critical importance of onboarding, one-third of the financial institutions surveyed have not invested in technology to help immprove the process. 
 
 <ul>
     <li>
@@ -31,11 +33,9 @@ Hence, one of the critical areas where a financial institution thinks it can be 
 This case study discusses one such emerging RegTech solutions provider, Fenergo whose services speak to a lot of the headaches that banks have to deal with in the new era of digital banking. That includes a host of regulatory requirements; client lifecycle management (onboarding and making digital interfaces usable); and rolling out digital interfaces for the services that banks typically offer (corporate/institutional banking, asset management, private banking and wealth management); as well as client and regulatory technology for financial services.
 </i>
 
-# <i>Name of the Company: [FENERGO Ltd](https://www.fenergo.com/)
+# <i>Name of the Company: [FENERGO Ltd](https://www.fenergo.com/)  ![Fenergo](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/logo.png)
+
 </i>
-
-![Fenergo](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/logo.png)
-
 Established in 2009, head quartered in Dublin 1, Ireland and with 14 office locations across 11 countries, Fenergo is a leading provider of client and regulatory technology designed to provide financial institutions with financial and regulatory solutions that span front and middle office operations to provide banking clients with an end-to-end client life cycle management solutions. 
 
 The company's platform offers a centralized master data system and provides Client Lifecycle Management, Onboarding Compliance (KYC, CDD, AML, TDSI, MiFID II, FATCA, Dodd-Frank) and Client Data Management solutions for investment, corporate, commercial and private banks, enabling those financial institutions to streamline end-to-end client lifecycle and management processes as well as achieve operational efficiencies and improve customer experience, whilst maintaining the highest level of regulatory compliance across the globe.
@@ -144,6 +144,32 @@ The global Anti-Money Laundering (AML) solution market size is projected to grow
 
 The global AI in Fintech market was estimated at USD 6.67 billion in 2019 and is expected to reach USD 22.6 billion by 2025. The market is also expected to witness a CAGR of 23.37% over the forecast period (2020-2025). Increasing demand for process automation among financial organizations is driving the market. Process automation is one of the major drivers of artificial intelligence in financial organizations
 
+## <i> Which Technologies are they currently using and how are they implementing these? what differentiates their solution from the competetorss?
+</i>
+Some key Technologies leveraged by Fenergo include:
+
+Fenergo's soluutions are underpinned by <b>Artificial Intelligence, Robotics Process Automation and Machine Learning technologies </b>, using advanced OCR and NLP capabilities to extract information, expedite compliance and improve operational efficiencies. AI used to speed up customer document scanning. Optical characted recognition (OCR) capabilities extract meaningful information form documents that can be combined with data from external sources to create an enhanced risk profie for each customer. 
+
+<b>AWS Cloud:</b> Fenergo's Fen-Xcelerate, a lower cost, cloud-based version of Fenergo's CLM solution, tailored specifically to mid-tier and boutique commercial, business and retail banks seeking to accelerate digital transformation. The cloud-based solution, powered by Amazon Web Services (AWS), delivers frictionless, end-to-end customer journeys and client lifecycle management on a single platform.
+
+<b>API-approach and workflow innovation </b> - APIs collate customer data from various source and combine to create a single client view. API-first integration and other front end systems and industry data providers ensures a digital orchestration process creating an end-to-end frictionless process, eleminating financial institution's need to perform client outreach and customer's need to submit the information.
+
+
+
+ 
+
+![Technology](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/technology.jpg)
+
+### Differentiators: 
+Fenergo CLM's ability to enable financial institutions to onboard complex multi-jurisdictional clients seamlessly and quickly, greatly reduce implementation costs that differntiate it's solution from other similar players:
+<li>
+Fenergo's unique<b> ecosystem </b>is comprised of out-of-the-box, best-of-breed integrations with partners including Salesforce, Refinitiv's World-Check One, RDC, and DocuSign. The solution also supports integration with transaction monitoring services, Fenergo's own customer-facing portal and core banking systems, amongst others. 
+
+<li>Fenergo's community-based approach to product development, depth of regulatory expertise and pre-packaged data solutions. Fenergo’s <b>Compliance by Design </b> approach involves collaborating with global Regulatory Forums, an active community of senior compliance professionals from client organizations, to provide direct input into Fenergo’s Regulatory and Product Roadmaps. Fenergo’s Regulatory Forum members help to design, interpret and bring to market compliance solutions for enhanced or emerging regulations.
+<li> ability to Rapidly deploy the solution with limited configuration in 6-12 weeks 
+<li>Ability to manage risk by exception for straight through processing, serving customers faster
+<li>Access to Fenergo's community of global banks and regulators
+
 # Landscape
 
 ## <i> What domain of the financial industry is the company in and What are the other major companies in this domain?
@@ -157,8 +183,8 @@ While there are many vendors big and small across different markets and regions 
 
 The competitive landscape includes some well known big Technology solution providers like Oracle, IBM, SAP who are not just into CLM or finance industry but focus on broader range of products and solutions across industry segments. On the other side there are a few mid sized companies like Appian, Pega as well as many startups providing broader solution set for financial industry. And then there are quite a niche players who are exclusively into KYC or a specific segment within CLM. 
 
-![Competition](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/competetion_1.png)
-![landscape](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/competetion_2.png)
+![Competition](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/competetion_1.jpg)
+![landscape](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/competetion_2.jpg)
 
 ## <i>What have been the major Trends and innovations of this domain over the last 5 -10 years?
 </i>
@@ -222,6 +248,7 @@ Ability to re-use 75% of existing client data/documentation;
 <li>
 80% reduction in regulatory change management costs.
 </li>
+</ul>
 
 ## <i> What are some of the core metrics that companies in this domain use to measure success? 
 </i>
@@ -239,6 +266,8 @@ Market cap
 <li> Industry recognition
 </li>
 <li>
+</ul>
+
 Social media metrics such as website visits, mentions in Twitter, facebook, etc., employee satisfaction are some of the non-financial metrics determining the increase in popularity among digital savvy uses.
 <li>
 
@@ -255,7 +284,7 @@ They have been steadily added new and global financial gaints to their customer 
 Fenergo has been named as top playyer in Fintech Reviews conducted by Celent and many other well recognized bodies. 
 </ul>
 
-![Investors](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/marketposition.png)
+![Investors](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/marketposition.jpg)
 
 ### Industry Recognitions
 Fenergo has been recognized as top tier RegTecch company consecutively for many years. Some of the industry recognitions include:
@@ -281,7 +310,9 @@ Fenergo has been recognized as top tier RegTecch company consecutively for many 
 </i>
 
 
-Fenergo has been leveraging bleeding edge technologies already in their solutions and is focused to accelerate the digital transformation keeping up with the technology trends, acknoldging that as we move towards an era of open banking, the future model of client onboarding will utilize one or more of the following means of identifying a customer, most of it already been leveraged in their solutions:
+Fenergo has been leveraging bleeding edge technologies already in their solutions and is focused to accelerate the digital transformation keeping up with the technology trends. The opportunities offered by these new technologies include:  
+
+means of identifying a customer, most of it already been leveraged in their solutions:
 <ui>
 <Li> <b>Artificial intelligence (AI) </b> – technology by which the computer software can make decisions which are normally made by humans. For example, PayPal has cut its false fraud alerts in half, by using an AI monitoring system that can identify benign reasons for seemingly bad behavior. Others, like HSBC are, too, moving towards AI, pledging $2.3 billion to digital transformation and AI tech.</li>
 
@@ -317,6 +348,11 @@ From their blogs and recent publications, it is uunderstood that Fenergo has bee
 
 <b> Robotic Process Automation (RPA) </b> is the use of software robots to do basic tasks across applications just as human workers do. The software robot can be programmed to follow a workflow with multiple steps and applications. RPA enables financial institutions to automate repetitive, non-value adding and data intensive tasks, giving employees back time to focus on higher value client-centric activities whilst improving accuracy, reducing risks, and reducing total cost of ownership.
 
+# Conclusion
+
+## Acccelerate Digital Transformation for optimized customer experience across the lifecycle.
+
+To stay competetive, financical institutions must leverage the disruptive technologies and digitalize their business to create streamlined ccustomer experience, stay compliant with regulations and optimize their operations. Companies like Fenergo have been successfully demonstrating the ROI and improved customer experiences. Transformation is an ongoing process with ever changing t echnology landscape and introduction of new solutions and Organizations have to continuously innovate and implement solutions that would further optimize customer experiences. 
 
 # Citations
 
