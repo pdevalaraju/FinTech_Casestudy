@@ -5,7 +5,7 @@ Preamble
 </h3>
 Client onboarding is a process which users go through when they start their journey as a customer/client of a bank/financial institution. The onboarding experience can define the ongoing relationship the customer has with the organisation. Onboarding, as a term, is a misnomer. In truth, it refers less to a single process than to a series of processes. Continuous Client Onboarding, also known as Customer Lifecycle Management (CLM) extends the conception of onboarding from the capture and verification of client information and account funding to encompass the entire client lifecycle, from acquisition to reporting to termination. Reinforced Know Your Customer (KYC) and Customer Due Diligence (CDD) requirements for entities such as banks need to be implemented in the first stage of any business relationship when onboarding a new customer. 
 
-![image](https://github.com/pdevalaraju/FinTech_Casestudy/Resources/onboarding.png)
+![Scope of Onboarding](https://github.com/pdevalaraju/FinTech_Casestudy/Resources/onlboarding.png)
 
 <h3> Why this matters </h1>
 
@@ -34,7 +34,7 @@ This case study discusses one such emerging RegTech solutions provider, Fenergo 
 # <i>Name of the Company: [FENERGO Ltd](https://www.fenergo.com/)
 </i>
 
-![Image](https://github.com/pdevalaraju/FinTech_Casestudy/Resources/logo.png)(https://www.fenergo.com/)
+![Fenergo](https://github.com/pdevalaraju/FinTech_Casestudy/Resources/logo.png)
 
 Established in 2009, head quartered in Dublin 1, Ireland and with 14 office locations across 11 countries, Fenergo is a leading provider of client and regulatory technology designed to provide financial institutions with financial and regulatory solutions that span front and middle office operations to provide banking clients with an end-to-end client life cycle management solutions. 
 
@@ -47,7 +47,7 @@ The company today has over 80 customers on its books, which may not sound like a
 MARC MURPHY, CEO is the founder of Fenergo. He is responsible for Fenergo’s business operational strategy and corporate direction
 
 <table><tr><td>
-<table> <TH> Management Team:</th>
+<table><Tr><b> Management Team: </b></tr>
 <tr><td> Name </td> <td> Role </TD></tr>
 <TR><Td> Eimer McGovern </td> <td> Chief Financial Officer </td> </tr>
 <TR><Td> Colm Heffernan </td> <td> Chief Operating Officer </td> </tr>
@@ -58,7 +58,7 @@ MARC MURPHY, CEO is the founder of Fenergo. He is responsible for Fenergo’s bu
 
 <td>
 
-<table> <th> Board of Directors : </th>
+<table> <tr><b> Board of Directors : </b></tr>
 <tr><td> Name </td> <td> Representing </Td><td> Role </TD></tr>
 <TR><Td> Cian Cotter </td> <td> Insight Partners </td> <td>Board Member</td> </tr>
 <TR><Td> Edward Ho </td> <td> DXC Technology </td> <td>Board Member</td> </tr>
@@ -77,11 +77,11 @@ The challenge with Increasing and ever evolving global regulatory obligations, i
 </i>
 Fenergo's latest funding round in February 2020 was reported to be $80 m. In total, Fenergo has raised $160.4 m. Fenergo's latest valuation is reported to be $800 m. Fenergo currently has 70 Enterprise customers includes some of the world’s leading banks & prime brokerages. include  t has participated in 6 rounds of funding. In total Fenergo has raised $173.6M. Fenergo's last funding round was on Feb 2020 for a total of $6.0M.
 
-![Image](https://github.com/pdevalaraju/FinTech_Casestudy/Resources/fenergofunding.png)
+![Funding Rounds](https://github.com/pdevalaraju/FinTech_Casestudy/Resources/fenergofunding.png)
 
 ## Fintech investors
 
-![Image](https://github.com/pdevalaraju/FinTech_Casestudy/Resources/fenergoinvestors.png)
+![Investors](https://github.com/pdevalaraju/FinTech_Casestudy/Resources/fenergoinvestors.png)
 
 # Business Activities
 
@@ -124,11 +124,11 @@ Private Banking - Wealth Management
         Digitalize complex client onboarding processes and deliver a streamlined client experience across the entire client lifecycle.
     </ui>
 </li>
-<ul>
+</ul>
 
 ### Market size
 
-<iframe height="600px" width="800px" src="https://craft.co/embed/v1/companies/fenergo/market_position"/>
+<iframe height="600px" width="800px" src="https://craft.co/embed/v1/companies/fenergo/market_position">
 
 </iframe>
 
@@ -155,12 +155,12 @@ Fenergo RegTech company with  100% on financial industry serves overing Corporat
 
 While there are many vendors big and small across different markets and regions with similar product or solutions, Fenergo is the only CLM vendor that specializes in financial services which makes Fenergo highly tuned in to the exact requirements of financial institutions. There are different players in each market segment e.g. below Below chart provides comparison of players in SMB segment. 
 
-![Image](https://github.com/pdevalaraju/FinTech_Casestudy/Resources/landscape.png)
+![Market Position](https://github.com/pdevalaraju/FinTech_Casestudy/Resources/landscape.png)
 
 The competitive landscape includes some well known big Technology solution providers like Oracle, IBM, SAP who are not just into CLM or finance industry but focus on broader range of products and solutions across industry segments. On the other side there are a few mid sized companies like Appian, Pega as well as many startups providing broader solution set for financial industry. And then there are quite a niche players who are exclusively into KYC or a specific segment within CLM. 
 
-![Image](https://github.com/pdevalaraju/FinTech_Casestudy/Resources/competion_1.png)
-![Image](https://github.com/pdevalaraju/FinTech_Casestudy/Resources/competion_2.png)
+![Competition](https://github.com/pdevalaraju/FinTech_Casestudy/Resources/competion_1.png)
+![landscape](https://github.com/pdevalaraju/FinTech_Casestudy/Resources/competion_2.png)
 
 ## <i>What have been the major Trends and innovations of this domain over the last 5 -10 years?
 </i>
