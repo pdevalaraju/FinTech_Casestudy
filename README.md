@@ -77,11 +77,11 @@ The challenge with Increasing and ever evolving global regulatory obligations, i
 </i>
 Fenergo's latest funding round in February 2020 was reported to be $80 m. In total, Fenergo has raised $160.4 m. Fenergo's latest valuation is reported to be $800 m. Fenergo currently has 70 Enterprise customers includes some of the world’s leading banks & prime brokerages. include  t has participated in 6 rounds of funding. In total Fenergo has raised $173.6M. Fenergo's last funding round was on Feb 2020 for a total of $6.0M.
 
-![Funding Rounds](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/fenergofunding.jpg)
+![Funding Rounds](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/fenergofunding.JPG)
 
 ## Fintech investors
 
-![Investors](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/finergoinvestors.jpg)
+![Investors](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/finergoinvestors.JPG)
 
 ## Business Activities
 
@@ -179,12 +179,12 @@ Fenergo RegTech company with  100% on financial industry serves overing Corporat
 
 While there are many vendors big and small across different markets and regions with similar product or solutions, Fenergo is the only CLM vendor that specializes in financial services which makes Fenergo highly tuned in to the exact requirements of financial institutions. There are different players in each market segment e.g. below Below chart provides comparison of players in SMB segment. 
 
-![Market Position](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/landscape.png)
+![Market Position](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/landscape.jpg)
 
 The competitive landscape includes some well known big Technology solution providers like Oracle, IBM, SAP who are not just into CLM or finance industry but focus on broader range of products and solutions across industry segments. On the other side there are a few mid sized companies like Appian, Pega as well as many startups providing broader solution set for financial industry. And then there are quite a niche players who are exclusively into KYC or a specific segment within CLM. 
 
-![Competition](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/competetion_1.jpg)
-![landscape](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/competetion_2.jpg)
+![Competition](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/competetion_1.png)
+![landscape](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/competetion_2.png)
 
 ### <i>What have been the major Trends and innovations of this domain over the last 5 -10 years?
 </i>
@@ -285,7 +285,7 @@ They have been steadily added new and global financial gaints to their customer 
 Fenergo has been named as top playyer in Fintech Reviews conducted by Celent and many other well recognized bodies. 
 </ul>
 
-![Investors](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/marketposition.jpg)
+![Investors](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/marketposition.JPG)
 
 ### Industry Recognitions
 Fenergo has been recognized as top tier RegTecch company consecutively for many years. Some of the industry recognitions include:
