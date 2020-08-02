@@ -42,7 +42,7 @@ The company's platform offers a centralized master data system and provides Clie
 
 The company today has over 80 customers on its books, which may not sound like a lot until you consider that the customers are leviathans like Aviva, ANZ, PNC, Banc of California, National Australia Bank, BNP Paribas, Canadian Imperial Bank of Commerce, UBS Asset Management, Anglo Gulf Trading Bank, SunTrust, Royal Bank of Canada, First Abu Dhabi Bank, Tricor, Exos Financial and Mizuho, HSBC, BBVA, BNY Mellon, Westpac, Scotiabank, RBC Wealth and ABN AMRO. 
 
-## <i>Who are the founders of the company?
+### <i>Who are the founders of the company?
 </i>
 MARC MURPHY, CEO is the founder of Fenergo. He is responsible for Fenergo’s business operational strategy and corporate direction
 
@@ -69,11 +69,11 @@ MARC MURPHY, CEO is the founder of Fenergo. He is responsible for Fenergo’s bu
 </td></Tr>
 </table>
 
-## <i> How did the idea for the company came about?
+### <i> How did the idea for the company came about?
 </i>
 The challenge with Increasing and ever evolving global regulatory obligations, increased cycle time for customer onboarding and the need for improving customer experience are the primary driver for Fenergo’s establishment. They are focused to further accelerating digital accelerating digital transformation, enabling better client experiences and delivering even greater value to shared customers going forward.
 
-## <i> How is the company funded? How much finding they received?
+### <i> How is the company funded? How much finding they received?
 </i>
 Fenergo's latest funding round in February 2020 was reported to be $80 m. In total, Fenergo has raised $160.4 m. Fenergo's latest valuation is reported to be $800 m. Fenergo currently has 70 Enterprise customers includes some of the world’s leading banks & prime brokerages. include  t has participated in 6 rounds of funding. In total Fenergo has raised $173.6M. Fenergo's last funding round was on Feb 2020 for a total of $6.0M.
 
@@ -83,16 +83,16 @@ Fenergo's latest funding round in February 2020 was reported to be $80 m. In tot
 
 ![Investors](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/finergoinvestors.jpg)
 
-# Business Activities
+## Business Activities
 
-## <i> What specific financial problem they are trying to solve?
+### <i> What specific financial problem they are trying to solve?
 </i>
 
 Fenergo’s focuses on addressing challenges in Client lifecycle management right from onboarding through regulatory compliance to further accelerating digital transformation, enabling better client experiences and delivering even greater value to our shared customers. 
 
 <i> “The rise in financial crime and increasing regulation is creating a tough battleground for financial institutions trying to stay on top of a multitude of regulatory rules across different jurisdictions. We are still seeing the ramifications from the financial crisis." - Marc Murphy, CEO, Fenergo </i>
 
-## <i> Who is the company’s intended customer. Is there any information about the market size?
+### <i> Who is the company’s intended customer. Is there any information about the market size?
 </i>
 
 Fenergo is focused exclusively on Financial industry, covering Corporate & Institutional Banking, Retail Banking, Asset mgmt, and Wealth Management sectors. 
@@ -144,7 +144,7 @@ The global Anti-Money Laundering (AML) solution market size is projected to grow
 
 The global AI in Fintech market was estimated at USD 6.67 billion in 2019 and is expected to reach USD 22.6 billion by 2025. The market is also expected to witness a CAGR of 23.37% over the forecast period (2020-2025). Increasing demand for process automation among financial organizations is driving the market. Process automation is one of the major drivers of artificial intelligence in financial organizations
 
-## <i> Which Technologies are they currently using and how are they implementing these? what differentiates their solution from the competetorss?
+### <i> Which Technologies are they currently using and how are they implementing these? what differentiates their solution from the competetorss?
 </i>
 Some key Technologies leveraged by Fenergo include:
 
@@ -170,9 +170,9 @@ Fenergo's unique<b> ecosystem </b>is comprised of out-of-the-box, best-of-breed 
 <li>Ability to manage risk by exception for straight through processing, serving customers faster
 <li>Access to Fenergo's community of global banks and regulators
 
-# Landscape
+## Landscape
 
-## <i> What domain of the financial industry is the company in and What are the other major companies in this domain?
+### <i> What domain of the financial industry is the company in and What are the other major companies in this domain?
 </i>
 
 Fenergo RegTech company with  100% on financial industry serves overing Corporate & Institutional Banking, Retail Banking, Asset mgmt, and Wealth Management domains.
@@ -186,7 +186,7 @@ The competitive landscape includes some well known big Technology solution provi
 ![Competition](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/competetion_1.jpg)
 ![landscape](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/competetion_2.jpg)
 
-## <i>What have been the major Trends and innovations of this domain over the last 5 -10 years?
+### <i>What have been the major Trends and innovations of this domain over the last 5 -10 years?
 </i>
 
 Onboarding and KYC operational processes have had to change significantly over the last 10 years as regulatory requirements and customer expectations have changed. Long gone are the days of financial institutions being able to rely on relationship managers “knowing” who their customers are, and where they got their wealth. The financial industry has had to grow up to create a robust, up-to-date, auditable view of the customer. 
@@ -210,9 +210,9 @@ As regulations become stricter with ever evolving and introduction of new direct
 
 As the Regtech industry evolved, many players emerged providing Financial institutions with the ability to implement change quickly and smoothly, with minimal business disruption. Today, There are lots of vendors out there offering solutions to all or part of the challenges.  AI, RPA, DPA, Blockchain, NLP, Pattern Recognition, Semantic Engines, Machine Learning, automated Identity verification, Rules engines, zero code, low code, and configuration are all buzzwords in our current vocabulary.
 
-# Results
+## Results
 
-## <i> What has been the business impact of this company so far?
+### <i> What has been the business impact of this company so far?
 </i>
 
 Fenergo’s Client Lifecycle Management solution has been proven to help financial institutions to:
@@ -252,7 +252,7 @@ Ability to re-use 75% of existing client data/documentation;
 </li>
 </ul>
 
-## <i> What are some of the core metrics that companies in this domain use to measure success? 
+### <i> What are some of the core metrics that companies in this domain use to measure success? 
 </i>
 A few metrics most of the startup or PE funded companies are measured upon are: 
 <ul>
@@ -268,12 +268,11 @@ Market cap
 <li> Industry recognition
 </li>
 <li>
+Social media metrics such as website visits, mentions in Twitter, facebook, etc., employee satisfaction are some of the non-financial metrics determining the increase in popularity among digital savvy uses.
+<lili>
 </ul>
 
-Social media metrics such as website visits, mentions in Twitter, facebook, etc., employee satisfaction are some of the non-financial metrics determining the increase in popularity among digital savvy uses.
-<li>
-
-## <i> How is you company performing based on these metrics
+###  <i> How is you company performing based on these metrics
 </i>
 
 Fenergo has been performing well ahead of similar startup/PE owned companies. 
@@ -293,7 +292,7 @@ Fenergo has been recognized as top tier RegTecch company consecutively for many 
 
 <iframe src="https://www.fenergo.com/company/awards-accreditations.html" height="600px" width="800px"></iframe>
 
-## <i> How is your company performing relative to competitors in the same domain.
+### <i> How is your company performing relative to competitors in the same domain.
 </i>
 <ul>
 <li>Fenergo’s expanded it customer bases to more than 80 big financial institutions
@@ -306,9 +305,9 @@ Fenergo has been recognized as top tier RegTecch company consecutively for many 
 </ul>
 
 
-# Recommendations
+## Recommendations
 
-## <i>If you were to advise the company, what products or services would you suggest they offer? What technologies would this additional product or service utilize?
+### <i>If you were to advise the company, what products or services would you suggest they offer? What technologies would this additional product or service utilize?
 </i>
 
 
@@ -325,7 +324,7 @@ means of identifying a customer, most of it already been leveraged in their solu
 <Li> <b> Data collaboration </b>- according to Chartis RiskTech100 Research 2015, 71% of respondents agreed that there is a compelling business case for integrating some or all of their anti-fraud and anti-money laundering (AML) systems into a single technology environment. Hopefully with this financial institutions will be able to mix internal and external client data to gain greater insights about a client. Well, I am not saying it will remove an onboarding process, but I hope that with such collaborations we can make the advantage of collective knowledge to provide a good customer experience by streamlining the process. </li>
 </ul>
 
-## <i> Why do you think that offering this product or service would benefit the company? </i>
+### <i> Why do you think that offering this product or service would benefit the company? </i>
 
 Being a well established player and regarded as one the top RegTech companies, Fenergo has well laid out plan for acccelerating digital transofrmation. Personally, I might be aware of Fenergo’s plans to be able to comment if there are any areas I could suggest.
 <ul>
@@ -343,21 +342,21 @@ From their blogs and recent publications, it is uunderstood that Fenergo has bee
 <li> AML Screening: Machine Learning is helping to lower the number of False Positive hits in the screening process through probabilistic matching algorithms and supervised learning.</li> 
 </ul>
 
-## <i> Why are these technologies appropriate for your solution?
+### <i> Why are these technologies appropriate for your solution?
 
 
 <b> Machine Learning (ML) </b> is an application of artificial intelligence (AI). It is a statistical process that enables software to learn through finding patterns in data. ML can be supervised (users provide feedback/validation) or unsupervised (tries to identify patterns by itself) to improve accuracy. ML can enhance evidence-based learning to make smarter, more informed decisions. It also delivers greater business efficiencies through reduced risk, improved accuracy and improved productivity, and enables financial institutions to discover new insights across data silos.
 
 <b> Robotic Process Automation (RPA) </b> is the use of software robots to do basic tasks across applications just as human workers do. The software robot can be programmed to follow a workflow with multiple steps and applications. RPA enables financial institutions to automate repetitive, non-value adding and data intensive tasks, giving employees back time to focus on higher value client-centric activities whilst improving accuracy, reducing risks, and reducing total cost of ownership.
 
-# Conclusion
+## Conclusion
 
-## Acccelerate Digital Transformation for optimized customer experience across the lifecycle.
+### Acccelerate Digital Transformation for optimized customer experience across the lifecycle.
 
 To stay competetive, financical institutions must leverage the disruptive technologies and digitalize their business to create streamlined ccustomer experience, stay compliant with regulations and optimize their operations. Companies like Fenergo have been successfully demonstrating the ROI and improved customer experiences. Transformation is an ongoing process with ever changing t echnology landscape and introduction of new solutions and Organizations have to continuously innovate and implement solutions that would further optimize customer experiences. 
 
-# Citations
-
+## Citations
+<ul>
 <li>
 
 [Fenergo Funding rounds](https://www.owler.com/company/fenergo)
@@ -397,3 +396,4 @@ To stay competetive, financical institutions must leverage the disruptive techno
 <li>
 
 [market insights](https://www.celent.com/insights/859291930)
+</ul>
