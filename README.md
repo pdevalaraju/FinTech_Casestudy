@@ -33,10 +33,10 @@ Hence, one of the critical areas where a financial institution thinks it can be 
 This case study discusses one such emerging RegTech solutions provider, Fenergo whose services speak to a lot of the headaches that banks have to deal with in the new era of digital banking. That includes a host of regulatory requirements; client lifecycle management (onboarding and making digital interfaces usable); and rolling out digital interfaces for the services that banks typically offer (corporate/institutional banking, asset management, private banking and wealth management); as well as client and regulatory technology for financial services.
 </i>
 
-# <i>Name of the Company: [FENERGO Ltd](https://www.fenergo.com/)  
-![Fenergo](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/logo.png)(https://www.fenergo.com/)
+# <i>Name of the Company: [FENERGO Ltd](https://www.fenergo.com/)  </i>
+![Fenergo](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/logo.png)
 
-</i>
+
 Established in 2009, head quartered in Dublin 1, Ireland and with 14 office locations across 11 countries, Fenergo is a leading provider of client and regulatory technology designed to provide financial institutions with financial and regulatory solutions that span front and middle office operations to provide banking clients with an end-to-end client life cycle management solutions. 
 
 The company's platform offers a centralized master data system and provides Client Lifecycle Management, Onboarding Compliance (KYC, CDD, AML, TDSI, MiFID II, FATCA, Dodd-Frank) and Client Data Management solutions for investment, corporate, commercial and private banks, enabling those financial institutions to streamline end-to-end client lifecycle and management processes as well as achieve operational efficiencies and improve customer experience, whilst maintaining the highest level of regulatory compliance across the globe.
@@ -128,9 +128,7 @@ Private Banking - Wealth Management
 </ul>
 
 ### Market size
-<figure>
-<iframe src="https://craft.co/embed/v1/companies/fenergo/market_position" frameborder="0" allowfullscreen="true"></iframe>
-</figure>
+
 
 ### 
 
@@ -138,7 +136,7 @@ Client Lifecycle management is a broader segment starting from customer acquisit
 
 Client Lifecycle management is a broader segment starting from customer acquisition onboarding, regulatory compliance as it relates to KYC, AML, PEP & FATF and the ongoing management of the client journey. There are many reports detailing the market size and growth for each segment and by the technology domain. Access to such reports are on subscription basis. Instead of Consolidating all the market data into a snapshot the below report focuses primarily on the first and foremost aspect of CLM - KYC, AML and PEP aspects of RegTech. 
 
-### Solution segment to hold a larger market size
+#### Solution segment to hold a larger market size
 
 Currently, the market for software and services related to KYC, AML, and PEP is around $5.6 billion. However, this is forecasted to grow to at least $12 billion by the year 2022, according to a study performed by OWI Labs. This means that the market for these services will grow by nearly $2 billion per year for the next three years, eventually more than doubling in size
 
@@ -157,7 +155,7 @@ Fenergo's soluutions are underpinned by <b>Artificial Intelligence, Robotics Pro
 <b>API-approach and workflow innovation </b> - APIs collate customer data from various source and combine to create a single client view. API-first integration and other front end systems and industry data providers ensures a digital orchestration process creating an end-to-end frictionless process, eleminating financial institution's need to perform client outreach and customer's need to submit the information.
 
 
-![Technology](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/technology.jpg)
+![Technology](https://github.com/pdevalaraju/FinTech_Casestudy/blob/master/Resources/technology.png)
 
 
 ### Differentiators: 
