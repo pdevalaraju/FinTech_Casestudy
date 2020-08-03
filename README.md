@@ -364,41 +364,41 @@ To stay competetive, financical institutions must leverage the disruptive techno
 <ul>
 <li>
 
-[Fenergo Funding rounds](https://www.owler.com/company/fenergo)
+Fenergo Funding rounds: https://www.owler.com/company/fenergo
 <li>
 
-[what is KYC in Banking](https://www.thalesgroup.com/en/markets/digital-identity-and-security/banking-payment/issuance/id-verification/know-your-customer)
+what is KYC in Banking: https://www.thalesgroup.com/en/markets/digital-identity-and-security/banking-payment/issuance/id-verification/know-your-customer
 <li>
 
-[Fenergo Commpany profile](https://craft.co/fenergo)
+Fenergo Commpany profile: https://craft.co/fenergo
 <li>
 
-[future of client onboarding](https://www.fintechfutures.com/2018/09/the-future-of-client-onboarding/)
+future of client onboarding: https://www.fintechfutures.com/2018/09/the-future-of-client-onboarding/
 <li>
 
-[Fenergo Valuation](https://techcrunch.com/2020/02/12/fenergo-raises-80m-at-an-800m-valuation-for-compliance-and-other-fintech-services-aimed-at-banks/)
+Fenergo Valuation:  https://techcrunch.com/2020/02/12/fenergo-raises-80m-at-an-800m-valuation-for-compliance-and-other-fintech-services-aimed-at-banks/
 <li>
 
-[Fenergo Awards](https://www.fenergo.com/company/awards-accreditations.html)
+Fenergo Awards: https://www.fenergo.com/company/awards-accreditations.html
 <li>
 
-[Fintech news - Fenergo SMB soltion](https://www.prnewswire.com/news-releases/fenergo-launches-fen-xcelerate-a-saas-client-lifecycle-management-solution-for-mid-sized--boutique-financial-institutions-301078037.html)
+Fintech news - Fenergo SMB soltion: https://www.prnewswire.com/news-releases/fenergo-launches-fen-xcelerate-a-saas-client-lifecycle-management-solution-for-mid-sized--boutique-financial-institutions-301078037.html
 <li>
 
-[Fenergo Outlook](https://www.irishtimes.com/business/technology/fenergo-looking-to-more-than-double-revenues-by-2023-1.4288614)
+Fenergo Outlook: https://www.irishtimes.com/business/technology/fenergo-looking-to-more-than-double-revenues-by-2023-1.4288614
 <li>
 
-[AML Solution Market](https://www.businesswire.com/news/home/20190912005427/en/Global-Anti-Money-Laundering-Solution-Market-Report-2019-2024)
+AML Solution Market: https://www.businesswire.com/news/home/20190912005427/en/Global-Anti-Money-Laundering-Solution-Market-Report-2019-2024
 <li>
 
-[AI Fintech Market](https://www.businesswire.com/news/home/20200619005338/en/Artificial-Intelligence-Fintech---Global-Market-Growth)
+AI Fintech Market: https://www.businesswire.com/news/home/20200619005338/en/Artificial-Intelligence-Fintech---Global-Market-Growth
 <li>
 
-[Fenergo Market Position](https://craft.co/embed/v1/companies/fenergo/market_position")
+Fenergo Market Position: https://craft.co/embed/v1/companies/fenergo/market_position
 <li>
 
-[RegTech Role in CLM transformation](https://www.finextra.com/blogposting/16765/regtechs-role-in-the-transformation-of-client-lifecycle-management-and-kyc-operations)
+RegTech Role in CLM transformation: https://www.finextra.com/blogposting/16765/regtechs-role-in-the-transformation-of-client-lifecycle-management-and-kyc-operations
 <li>
 
-[market insights](https://www.celent.com/insights/859291930)
+market insights: https://www.celent.com/insights/859291930
 </ul>
